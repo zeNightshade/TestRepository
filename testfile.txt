@@ -1,2 +1,2 @@
-Test
-There was a change
+Test file
+Changes
